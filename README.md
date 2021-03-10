@@ -41,3 +41,15 @@ https://arxiv.org/pdf/2002.11098v1.pdf
 
 # Research Paper 
 @1adrianb is the original author of the paper 
+
+
+## Deep Pose DataSet
+
+The [deep pose](https://github.com/mitmul/deeppose) repository is registered as a submodule of this repository
+
+```
+git submodule init
+git submodule update
+```
+
+Deep Pose Paper: https://arxiv.org/abs/1312.4659

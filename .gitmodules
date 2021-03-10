@@ -1,0 +1,3 @@
+[submodule "deeppose"]
+	path = deeppose
+	url = https://github.com/mitmul/deeppose.git
